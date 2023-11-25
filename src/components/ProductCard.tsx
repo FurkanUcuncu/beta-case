@@ -57,7 +57,7 @@ const ProductCard = ({
             <Typography className="item-discount">{discount}</Typography>
           </Box>
           <img className="card-image" src={image} alt={name} />
-          <Box p={4} className="card-bottom">
+          <Box className="card-bottom">
             <Box className="card-info">
               <Typography className="product-name">{name}</Typography>
               <Box className="rating-box">
