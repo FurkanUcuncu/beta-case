@@ -4,6 +4,12 @@ $primary: rgb(198 55 55);
 $secondary: #80808054;
 $tertiary: #80808094;
 
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #f8fafc;
 }
