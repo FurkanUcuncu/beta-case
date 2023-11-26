@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/beta-case/static/css/main.e2484246.chunk.css",
+    "main.js": "/beta-case/static/js/main.ab43258d.chunk.js",
+    "main.js.map": "/beta-case/static/js/main.ab43258d.chunk.js.map",
+    "runtime-main.js": "/beta-case/static/js/runtime-main.857e7557.js",
+    "runtime-main.js.map": "/beta-case/static/js/runtime-main.857e7557.js.map",
+    "static/css/2.76f160ab.chunk.css": "/beta-case/static/css/2.76f160ab.chunk.css",
+    "static/js/2.f915cbb3.chunk.js": "/beta-case/static/js/2.f915cbb3.chunk.js",
+    "static/js/2.f915cbb3.chunk.js.map": "/beta-case/static/js/2.f915cbb3.chunk.js.map",
+    "static/js/3.12aa4d0b.chunk.js": "/beta-case/static/js/3.12aa4d0b.chunk.js",
+    "static/js/3.12aa4d0b.chunk.js.map": "/beta-case/static/js/3.12aa4d0b.chunk.js.map",
+    "index.html": "/beta-case/index.html",
+    "static/css/2.76f160ab.chunk.css.map": "/beta-case/static/css/2.76f160ab.chunk.css.map",
+    "static/css/main.e2484246.chunk.css.map": "/beta-case/static/css/main.e2484246.chunk.css.map",
+    "static/js/2.f915cbb3.chunk.js.LICENSE.txt": "/beta-case/static/js/2.f915cbb3.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/beta-case/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.857e7557.js",
+    "static/css/2.76f160ab.chunk.css",
+    "static/js/2.f915cbb3.chunk.js",
+    "static/css/main.e2484246.chunk.css",
+    "static/js/main.ab43258d.chunk.js"
+  ]
+}
