@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
-import authServices from '../services/auth';
-import { api } from '../services/api';
+import authServices from '../../services/auth';
+import { api } from '../../services/api';
 
 export const getSessionId = createAsyncThunk('session', async () => {
   const response = await authServices.sessionId();

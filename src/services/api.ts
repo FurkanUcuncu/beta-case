@@ -2,7 +2,7 @@ import axios, { AxiosInstance } from 'axios';
 import * as http from 'http';
 import * as https from 'https';
 import qs from 'qs';
-import { ApiUrl } from '../../utils/utils';
+import { ApiUrl } from '../utils/utils';
 
 export const api: AxiosInstance = axios.create({
   baseURL: ApiUrl,
